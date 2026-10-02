@@ -143,4 +143,4 @@ Check whether the product clusters remain similar when the inputs or cluster cou
 
 1\. Install the project dependencies listed in `requirements.txt`.
 
-2\. Open `notebooks/ecommerce\_sales\_analysis.ipynb` in Jupyter and run the cells in order.
+2\. Open notebooks/Ecommerce_Sales_Analysis_&_Product_Segmentation1 (1).ipynb in Jupyter and run the cells in order.
